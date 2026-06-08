@@ -1,0 +1,377 @@
+2026-05-27 10:46:09,943 - __main__ - INFO - Бот запускается...
+2026-05-27 10:46:09,944 - apscheduler.scheduler - INFO - Scheduler started
+2026-05-27 10:46:13,690 - __main__ - INFO - Бот начал опрос
+2026-05-27 10:48:17,783 - src.handlers - INFO - Команда /start от . (id: 980347242)
+2026-05-27 10:48:18,577 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/c1h.jpg
+2026-05-27 10:52:36,843 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:52:37,234 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/e6n.jpg
+2026-05-27 10:52:38,603 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:52:39,023 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/1q6.jpg
+2026-05-27 10:53:03,580 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:53:04,018 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/sxIXJax6h.jpg
+2026-05-27 10:53:05,510 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:53:05,902 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/db1.jpg
+2026-05-27 10:54:55,292 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:54:55,747 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/dn6.jpg
+2026-05-27 10:54:56,952 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:54:57,399 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/blu.jpg
+2026-05-27 10:54:58,723 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:54:59,150 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/bib.jpg
+2026-05-27 10:55:00,734 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:55:01,162 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/3i5.jpg
+2026-05-27 10:55:02,766 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:55:03,191 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/gVzbbInLF.jpg
+2026-05-27 10:55:05,598 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:55:06,014 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/32t.gif
+2026-05-27 10:55:09,227 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:55:09,611 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/MTgyOTY1MQ.jpg
+2026-05-27 10:56:35,403 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:56:35,815 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/dn7.jpg
+2026-05-27 10:59:26,074 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 10:59:26,519 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/edr.jpg
+2026-05-27 10:59:46,456 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2026-05-27 10:59:46,456 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2026-05-27 11:55:44,537 - __main__ - INFO - Бот запускается...
+2026-05-27 11:55:44,539 - apscheduler.scheduler - INFO - Scheduler started
+2026-05-27 11:55:44,871 - __main__ - INFO - Бот начал опрос
+2026-05-27 11:55:46,127 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2026-05-27 11:55:46,128 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2026-05-27 12:06:24,508 - __main__ - INFO - Бот запускается...
+2026-05-27 12:06:24,510 - apscheduler.scheduler - INFO - Scheduler started
+2026-05-27 12:06:24,851 - __main__ - INFO - Бот начал опрос
+2026-05-27 12:06:24,906 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:06:25,379 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/bfg.jpg
+2026-05-27 12:06:30,808 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:06:31,228 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/dmk.jpg
+2026-05-27 12:06:32,385 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:06:32,809 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/bad.jpg
+2026-05-27 12:06:34,511 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:06:34,927 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/c50.jpg
+2026-05-27 12:06:36,130 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:06:36,581 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/3tv.jpg
+2026-05-27 12:06:48,346 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:06:48,746 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/8r4M61iyS.jpg
+2026-05-27 12:06:49,901 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:06:50,320 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/80n.gif
+2026-05-27 12:07:02,001 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:07:02,402 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/rh.jpg
+2026-05-27 12:07:03,535 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:07:03,926 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/dm9.jpg
+2026-05-27 12:07:04,925 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:07:05,313 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/B2YB13Ydq.jpg
+2026-05-27 12:07:05,970 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:07:06,396 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/73p.jpg
+2026-05-27 12:07:06,925 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:07:07,343 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/e9v.jpg
+2026-05-27 12:07:08,132 - src.handlers - INFO - Команда /newcat от 980347242
+2026-05-27 12:07:08,530 - src.api_client - INFO - Кот получен: https://cdn2.thecatapi.com/images/dmf.jpg
+2026-05-27 12:21:54,014 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2026-05-27 12:21:54,045 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 614, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1377, in getresponse
+    response.begin()
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 281, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 259, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 68, in request
+    return self.request_encode_body(method, url, fields=fields,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 665, in urlopen
+    retries = retries.increment(method, url, error=e, _pool=self,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 614, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1377, in getresponse
+    response.begin()
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 281, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\user01\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 3140, in get_updates
+    self._post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 299, in _post
+    return self.request.post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 361, in post
+    result = self._request_wrapper(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 265, in _request_wrapper
+    raise NetworkError(f'urllib3 HTTPError {error}') from error
+telegram.error.NetworkError: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2026-05-27 12:22:00,061 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598CCA30>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:05,067 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E05B0>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:10,078 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E0310>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:15,090 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E0670>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+2026-05-27 12:22:15,090 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 140, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\connection.py", line 83, in create_connection
+    raise err
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 614, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 144, in _new_conn
+    raise ConnectTimeoutError(
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ConnectTimeoutError: (<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E0670>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 259, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 68, in request
+    return self.request_encode_body(method, url, fields=fields,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 665, in urlopen
+    retries = retries.increment(method, url, error=e, _pool=self,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+telegram.vendor.ptb_urllib3.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E0670>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 3140, in get_updates
+    self._post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 299, in _post
+    return self.request.post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 361, in post
+    result = self._request_wrapper(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 265, in _request_wrapper
+    raise NetworkError(f'urllib3 HTTPError {error}') from error
+telegram.error.NetworkError: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E0670>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+2026-05-27 12:22:21,601 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905340>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:26,604 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905250>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:31,612 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E599052B0>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:36,621 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905040>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+2026-05-27 12:22:36,621 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 140, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\connection.py", line 83, in create_connection
+    raise err
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 614, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 144, in _new_conn
+    raise ConnectTimeoutError(
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ConnectTimeoutError: (<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905040>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 259, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 68, in request
+    return self.request_encode_body(method, url, fields=fields,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 665, in urlopen
+    retries = retries.increment(method, url, error=e, _pool=self,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+telegram.vendor.ptb_urllib3.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905040>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 3140, in get_updates
+    self._post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 299, in _post
+    return self.request.post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 361, in post
+    result = self._request_wrapper(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 265, in _request_wrapper
+    raise NetworkError(f'urllib3 HTTPError {error}') from error
+telegram.error.NetworkError: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905040>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+2026-05-27 12:22:43,891 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905580>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:48,896 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905610>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:53,899 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905730>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:22:58,915 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905850>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+2026-05-27 12:22:58,915 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 140, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\connection.py", line 83, in create_connection
+    raise err
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 614, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 144, in _new_conn
+    raise ConnectTimeoutError(
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ConnectTimeoutError: (<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905850>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 259, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 68, in request
+    return self.request_encode_body(method, url, fields=fields,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 691, in urlopen
+    return self.urlopen(method, url, body, headers, retries,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 665, in urlopen
+    retries = retries.increment(method, url, error=e, _pool=self,
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+telegram.vendor.ptb_urllib3.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905850>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\ext\extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 3140, in get_updates
+    self._post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\bot.py", line 299, in _post
+    return self.request.post(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 361, in post
+    result = self._request_wrapper(
+  File "C:\Users\user01\Desktop\tg.bot\venv\lib\site-packages\telegram\utils\request.py", line 265, in _request_wrapper
+    raise NetworkError(f'urllib3 HTTPError {error}') from error
+telegram.error.NetworkError: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905850>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
+2026-05-27 12:23:07,304 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905550>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:23:11,096 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2026-05-27 12:23:11,097 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2026-05-27 12:23:12,316 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E59905AC0>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:23:17,332 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E0130>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates
+2026-05-27 12:23:22,342 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8914982647:AAE9neuVXgeWXFs_xLY7wdDk4x8R43nyxiY/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000026E598E0040>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
