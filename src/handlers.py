@@ -1,5 +1,5 @@
 from telegram import ReplyKeyboardMarkup
-from src.api_client import get_new_image
+from api_client import get_new_image
 import logging
 
 logger = logging.getLogger(__name__)
