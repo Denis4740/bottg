@@ -2,8 +2,8 @@ import logging
 import os
 from dotenv import load_dotenv
 from telegram.ext import Updater, CommandHandler
-from src.handlers import wake_up, new_cat
-from src.utils import setup_logging
+from handlers import wake_up, new_cat
+from utils import setup_logging
 
 load_dotenv()
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
