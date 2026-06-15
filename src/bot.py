@@ -2,7 +2,7 @@ import logging
 import os
 from dotenv import load_dotenv
 from telegram.ext import Application, CommandHandler
-from handlers import wake_up, new_cat
+from handlers import wake_up, newcat
 from utils import setup_logging
 
 load_dotenv()
