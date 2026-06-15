@@ -20,7 +20,7 @@ def main():
 
     # Добавляем обработчики команд
     application.add_handler(CommandHandler('start', wake_up))
-    application.add_handler(CommandHandler('newcat', new_cat))
+    application.add_handler(CommandHandler('newcat', newcat))
 
     # Запускаем бота (метод run_polling включает polling и блокирует выполнение)
     logger.info("Бот начал опрос")
